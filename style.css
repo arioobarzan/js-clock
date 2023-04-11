@@ -21,7 +21,7 @@ section{
 .clock{
     position: absolute;
     height: 90vh;
-    width: 430px;
+    width: 90%;
     background-color: white;
     border-radius: 3px;
     top: 5%;
